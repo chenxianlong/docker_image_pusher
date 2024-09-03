@@ -1,1 +1,1 @@
-mysql:oraclelinux9
+mysql:5.7.26
